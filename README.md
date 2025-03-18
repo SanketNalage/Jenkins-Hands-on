@@ -1,6 +1,8 @@
 # Jenkins-Hands-on
 
-![Jenkins Logo](https://www.jenkins.io/images/logos/jenkins/jenkins.png)
+<a href="https://www.jenkins.io">
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins Logo" width="100">
+</a>
 
 Jenkins is like a **robot assistant** for developers. It helps automate repetitive tasks in the process of building, testing, and deploying software. Think of it as a **super-efficient** helper that takes care of all the boring and time-consuming work so developers can focus on writing code.
 
